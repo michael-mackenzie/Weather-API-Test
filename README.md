@@ -28,14 +28,16 @@ node app.js
 1. Enter any city name into the 'City Name' text box
 
 2. Click the 'Go' button or hit enter.
+
 <kbd>
 <img src="../master/weather1.GIF" />
 </kbd>
 
-![Text Entry Page](../master/weather1.GIF)
 3. View current weather results for your chosen city!
 
-![Text Entry Page](../master/weather2.GIF)
+<kbd>
+<img src="../master/weather2.GIF" />
+</kbd>
 
 ## Contact
 
